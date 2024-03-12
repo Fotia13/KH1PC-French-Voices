@@ -20,9 +20,9 @@
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  
- > Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
- > La bête ne dit rien quand on le soigne.
- > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement.
+ > - Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
+ > - La bête ne dit rien quand on le soigne.
+ > - Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement.
  
 ## English
 ### Installation
@@ -44,6 +44,6 @@
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
  - This patch is compatible with any other patch that don't change the voices.
  
- > Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but unused.
- > Beast don't say anything when you heal him.
- > If there is a loading while a sound effect, the sound will be put at 10 until the next loading.
+ > - Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but unused.
+ > - Beast don't say anything when you heal him.
+ > - If there is a loading while a sound effect, the sound will be put at 10 until the next loading.
