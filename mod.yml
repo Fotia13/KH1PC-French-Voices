@@ -6119,6 +6119,30 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pi/pi_018.vset/pi1718sr.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi17a1ji.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi17a1ji.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi1711ji.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi1711ji.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi1712pc.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi1712pc.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi1713pc.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi1713pc.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi1714pc.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi1714pc.win32.scd
+- name: remastered/voice/event/pi/pi_019.vset/pi1801do.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi1801do.win32.scd
 - name: remastered/voice/event/pi/pi_020.vset/pp0001rk.win32.scd
   method: copy
   source:
