@@ -17,6 +17,7 @@
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
  - 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale.
+ - La texture "MAGIE" dans le menu de commande est réparée.
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  
@@ -41,6 +42,7 @@
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
  - 6 voices lines of Peter Pan, 1 of Leon and 2 of Mushu are picked up from Kingdom Hearts 2 for a better quality and a voice continuity.
+ - The texture "MAGIE" in the command menu is fixed in french.
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
  - This patch is compatible with any other patch that don't change the voices.
  
