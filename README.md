@@ -6,7 +6,8 @@
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
- - Ensuite téléchargez les vidéos MP4 à mettre dans `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\` :
+### Installation des vidéos (introduction/outro)
+Ensuite téléchargez les vidéos MP4 à mettre dans `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\` :
 [![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](désolé il n'y en a pas encore) pour télécharger le patch.
