@@ -6,7 +6,8 @@
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
- - Ensuite téléchargez les vidéos MP4 à mettre dans `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\`:
+ - Ensuite téléchargez les vidéos MP4 à mettre dans `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\` :
+
 [![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](désolé il n'y en a pas encore) pour télécharger le patch.
@@ -23,9 +24,11 @@
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  
- > - Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
- > - La bête ne dit rien quand on le soigne.
- > - Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement.
+ > Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
+
+ > La bête ne dit rien quand on le soigne.
+
+ > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement.
  
 ## English
 ### Installation
@@ -35,6 +38,7 @@
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
  - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\`:
+
 [![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
  
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](sorry it doesn't exist yet) page to download the patch.
@@ -50,6 +54,8 @@
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
  - This patch is compatible with any other patch that don't change the voices.
  
- > - Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but unused.
- > - Beast don't say anything when you heal him.
- > - If there is a loading while a sound effect, the sound will be put at 10 until the next loading.
+ > Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but unused.
+
+ > Beast don't say anything when you heal him.
+
+ > If there is a loading while a sound effect, the sound will be put at 10 until the next loading.
