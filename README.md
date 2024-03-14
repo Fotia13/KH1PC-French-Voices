@@ -7,7 +7,7 @@
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
  - Ensuite téléchargez les vidéos MP4 à mettre dans `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\` :
- - [!](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
+ - [![Simple And Clean]](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](désolé il n'y en a pas encore) pour télécharger le patch.
 
@@ -19,6 +19,7 @@
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
  - 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale.
  - La texture "MAGIE" dans le menu de commande est réparée.
+ - Les vidéos sont upscale et les chansons/musiques sont en qualité 320kbps. (FLAC mais limité)
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  
@@ -34,7 +35,7 @@
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
  - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie\`:
- - [!](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
+ - [![Simple And Clean]](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
  
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](sorry it doesn't exist yet) page to download the patch.
 
@@ -45,6 +46,7 @@
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
  - 6 voices lines of Peter Pan, 1 of Leon and 2 of Mushu are picked up from Kingdom Hearts 2 for a better quality and a voice continuity.
  - The texture "MAGIE" in the command menu is fixed in french.
+ - The video are upscaled and the music are in quality 320kbps. (FLAC but limited)
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
  - This patch is compatible with any other patch that don't change the voices.
  
