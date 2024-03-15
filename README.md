@@ -7,9 +7,9 @@
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
  - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu `C:\Program Files\Epic Games\KH_1.5_2.5` :                
-[![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
+[![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=305)
  
- Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](désolé il n'y en a pas encore) pour télécharger le patch.
+ Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
 ### Description
  - Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version ps2 française.
@@ -37,12 +37,12 @@
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
  - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5`:                      
-[![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://drive.google.com/drive/folders/1iS4helWpK4w67v6CgYNUd9AVJAImB3f6)
+[![Simple And Clean](https://img.shields.io/badge/Simple_And_Clean-1080p-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=305)
  
- If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](sorry it doesn't exist yet) page to download the patch.
+ If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
 ### Description
- - Replace every voices in Kingdom Hearts Final Mix PC version by the ps2 french version.
+ - Replace eery voices in Kingdom Hearts Final Mix PC version by the ps2 french version.
  - Every files keep the same quality as back then without any clipping.
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
