@@ -24,6 +24,8 @@
  
  > Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
 
+ > Si vous faîtes pause la musique se mettra à 10 jusqu'au prochain chargement.
+
  > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement.
 
 Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) de Tieulink.
@@ -52,6 +54,8 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
  - This patch is compatible with any other patch that don't change the voices.
  
  > Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but unused.
+
+ > If you pause the game the music will be put at 10 until next loading.
 
  > If there is a loading while a sound effect, the sound will be put at 10 until the next loading.
 
