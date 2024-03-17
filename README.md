@@ -6,8 +6,8 @@
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
- - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent) : [![Simple And Clean](https://img.shields.io/badge/Génériques-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
-[![Hikari](https://img.shields.io/badge/Génériques-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
+ - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent) : [![Simple And Clean](https://img.shields.io/badge/Génériques(anglais)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
+[![Hikari](https://img.shields.io/badge/Génériques(japonais)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
@@ -39,8 +39,8 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
  - In the "Add a new mod from GitHub" box enter "Fotia13/KH1PC-French-Voices"
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
- - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different): [![Simple And Clean](https://img.shields.io/badge/OpeningEnding-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
-[![Hikari](https://img.shields.io/badge/OpeningEnding-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
+ - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different): [![Simple And Clean](https://img.shields.io/badge/OpeningEnding(english)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
+[![Hikari](https://img.shields.io/badge/OpeningEnding(japanese)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
  
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
