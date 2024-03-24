@@ -2219,6 +2219,10 @@ assets:
   method: copy
   source:
   - name: kh1_third/remastered/pp09.ard/FR_pp09_ard3e8.binl
+- name: remastered/tw19.ard/FR_tw19_ard3e8.binl
+  method: copy
+  source:
+  - name: kh1_third/remastered/tw19.ard/FR_tw19_ard3e8.binl
 - name: remastered/tw25.ard/FR_tw25_ard3ea.binl
   method: copy
   source:
