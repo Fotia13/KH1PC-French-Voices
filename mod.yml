@@ -2175,14 +2175,14 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/xa_ex_1630.mdls/an00ex08.win32.scd
+- name: remastered/al01.ard/FR_al01_ard3ec.binl
+  method: copy
+  source:
+  - name: kh1_second/remastered/al01.ard/FR_al01_ard3ec.binl
 - name: remastered/aw04.ard/FR_aw04_ard3e8.binl
   method: copy
   source:
   - name: kh1_second/remastered/aw04.ard/FR_aw04_ard3e8.binl
-- name: remastered/aw04.ard/FR_aw04_ard3ea.binl
-  method: copy
-  source:
-  - name: kh1_second/remastered/aw04.ard/FR_aw04_ard3ea.binl
 - name: remastered/ew33.ard/FR_ew33_ard3e8.binl
   method: copy
   source:
