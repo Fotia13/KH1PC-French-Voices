@@ -1,4 +1,7 @@
 # KH1PC-French-Voices
+
+[![Trailer Patch Voix Françaises Kingdom Hearts PC](https://img.youtube.com/vi/3_BoDyVT35Q/0.jpg)](https://www.youtube.com/watch?v=3_BoDyVT35Q "Trailer Patch Voix Françaises Kingdom Hearts PC")
+
 ## Français
 ### Installation
  Dans le Mods Manager d'[OpenKH](https://github.com/OpenKH/OpenKh/releases)
@@ -6,14 +9,14 @@
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
- - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent) : [![Simple And Clean](https://img.shields.io/badge/Génériques(anglais)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
-[![Hikari](https://img.shields.io/badge/Génériques(japonais)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
-[![Saga](https://img.shields.io/badge/Génériques(édités)-Saga-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=309)
+ - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (le nom du dossier peut être différent) : [![Simple And Clean](https://img.shields.io/badge/Génériques(anglais)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=363)
+[![Hikari](https://img.shields.io/badge/Génériques(japonais)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=364)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
 ### Description
- - Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version ps2 française.
+ - Compatible avec la version **Steam** et **Epic Games**
+ - Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version **ps2 française**.
  - Tout les fichiers gardent la même qualité qu'à l'époque sans aucune saturation.
  - Les sous-titres sont adaptés aux répliques sauf pour la mention "Maître de la Keyblade" qui est corrigé dans la version PC en "Porteur" ou "élu".
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
@@ -40,14 +43,14 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
  - In the "Add a new mod from GitHub" box enter "Fotia13/KH1PC-French-Voices"
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
- - Then download the MP4 videos that you shall put in `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different): [![Simple And Clean](https://img.shields.io/badge/OpeningEnding(english)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=306)
-[![Hikari](https://img.shields.io/badge/OpeningEnding(japanese)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=307)
-[![Saga](https://img.shields.io/badge/OpeningEnding(edited)-Saga-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=309)
- 
+ - Then download the MP4 videos that you shall put in Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (the folder name can be different): [![Simple And Clean](https://img.shields.io/badge/OpeningEnding(english)-Simple_And_Clean-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=363)
+[![Hikari](https://img.shields.io/badge/OpeningEnding(japanese)-Hikari-green)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123?tab=files&file_id=364)
+
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
 ### Description
- - Replace eery voices in Kingdom Hearts Final Mix PC version by the ps2 french version.
+ - Compatible with the **Steam** version and the **Epic Games** version.
+ - Replace eery voices in Kingdom Hearts Final Mix PC version by the **ps2 french version**.
  - Every files keep the same quality as back then without any clipping.
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
