@@ -2191,6 +2191,10 @@ assets:
   method: copy
   source:
   - name: kh1_third/remastered/he01.ard/FR_he01_ard3ea.binl
+- name: remastered/nm09.ard/FR_nm09_ard3f7.binl
+  method: copy
+  source:
+  - name: kh1_third/remastered/nm09.ard/FR_nm09_ard3f7.binl
 - name: remastered/pc12.ard/FR_pc12_ard3ea.binl
   method: copy
   source:
