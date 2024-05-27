@@ -9,8 +9,9 @@
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
  - Cliquez sur Installer
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 5 en son et musique et 10 en voix.
- - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (le nom du dossier peut être différent) : [Génériques(anglais) Simple And Clean](https://mega.nz/folder/IHMjDSTT#QIGWremS8POPGApcbB2mBg)
-[Génériques(japonais) Hikari](https://mega.nz/folder/wGETnKaQ#hlEW1x7dLEggSL9ZU7ZxhQ)
+ - Ensuite téléchargez les vidéos MP4 à placer dans les dossiers du jeu Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (le nom du dossier peut être différent) :
+  - [Génériques(anglais) Simple And Clean](https://mega.nz/folder/IHMjDSTT#QIGWremS8POPGApcbB2mBg)
+  - [Génériques(japonais) Hikari](https://mega.nz/folder/wGETnKaQ#hlEW1x7dLEggSL9ZU7ZxhQ)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
@@ -50,8 +51,9 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
  - In the "Add a new mod from GitHub" box enter "Fotia13/KH1PC-French-Voices"
  - Clic on Install
  - I suggest to change the volume in the parameters, for myself I put 5 in sound and music and 10 in voices.
- - Then download the MP4 videos that you shall put in Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (the folder name can be different): [OpeningEnding(english) Simple And Clean](https://mega.nz/folder/IHMjDSTT#QIGWremS8POPGApcbB2mBg)
-[OpeningEnding(japanese) Hikari](https://mega.nz/folder/wGETnKaQ#hlEW1x7dLEggSL9ZU7ZxhQ)
+ - Then download the MP4 videos that you shall put in Steam : `C:\Program Files (x86)\Steam\steamapps\common\KH_1.5_2.5\?Steam?\en\KH1Movie` or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5\EPIC\en\KH1Movie` (the folder name can be different):
+  - [OpeningEnding(english) Simple And Clean](https://mega.nz/folder/IHMjDSTT#QIGWremS8POPGApcbB2mBg)
+  - [OpeningEnding(japanese) Hikari](https://mega.nz/folder/wGETnKaQ#hlEW1x7dLEggSL9ZU7ZxhQ)
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
