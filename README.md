@@ -14,6 +14,13 @@
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
+### Problèmes potentiels
+Si vous avez un problème pour lancer les applications :
+ - Essayer en mode administrateur
+ - Télécharger [.Net 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) (si vous ne savez pas lequel télécharger prenez celui dans Installateurs Windows x64)
+
+Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games est en anglais soit vous avez une version pas très "morale" auquel cas faut aller dans les dossiers du jeu, modifiez le fichier epic_emu.ini (ça peut être un autre nom) avec un éditeur de texte et mettre "fr" à la place de "en" dans language.
+
 ### Description
  - Compatible avec la version **Steam** et **Epic Games**
  - Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version **ps2 française**.
@@ -47,6 +54,13 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
 [![Hikari](https://img.shields.io/badge/OpeningEnding(japanese)-Hikari-green)](https://mega.nz/folder/wGETnKaQ#hlEW1x7dLEggSL9ZU7ZxhQ)
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
+
+### Potential problems
+If you ran to an error while runnig the app try:
+- Running in administrator mod
+- Downloading [.Net 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) (if you don't know which one to downlade take the one in Installator Windows x64)
+
+If you want the subtitles to be in french I suggest to change Steam/Epic Games language parameters.
 
 ### Description
  - Compatible with the **Steam** version and the **Epic Games** version.
