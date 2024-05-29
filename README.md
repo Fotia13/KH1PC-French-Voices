@@ -4,9 +4,9 @@
 
 ## Français
 ### Installation
-Tutoriel Vidéo OpenKH pour Kingdom Hearts 2 (Juste cochez KH1-13GB à 6:53) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
+Tutoriel Vidéo OpenKH pour Kingdom Hearts 2 (Juste cochez KH1-13GB à 6:53 et arrêtez vous à 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
 
-Ou tutoriel écrit :
+Ensuite :
  Dans le Mods Manager d'[OpenKH](https://github.com/OpenKH/OpenKh/releases)
  - Cliquez sur Installer un nouveau mod (ou bouton + en vert)
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "Fotia13/KH1PC-French-Voices"
@@ -47,9 +47,9 @@ Si vous voulez le patch pour Kingdom Hearts 2 c'est sur la page [NexusMods](http
  
 ## English
 ### Installation
-How To Mod Kingdom Hearts II For PC (don't forget to tick KH1-13GB at 6:53) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
+How To Mod Kingdom Hearts II For PC (don't forget to tick KH1-13GB at 6:53 and you can stop at 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
 
-Or written tutorial:
+After that do the following:
  In [OpenKH](https://github.com/OpenKH/OpenKh/releases) Mods Manager
  - Clic on Install a new mod (or the green + button)
  - In the "Add a new mod from GitHub" box enter "Fotia13/KH1PC-French-Voices"
