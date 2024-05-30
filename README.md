@@ -59,7 +59,7 @@ After that do the following:
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
-### Potential problems
+### Potential trouble
 If you ran to an error while runnig the app try:
 - Running in administrator mod
 - Downloading [.Net 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) (if you don't know which one to downlade take the one in Installator Windows x64)
