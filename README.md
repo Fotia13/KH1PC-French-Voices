@@ -1,5 +1,7 @@
 # KH1PC-French-Voices
 
+!!!!!!!!!La version Mods Manager d'OpenKH ne fonctionne pas pour l'instant sur Steam actuelement, prenez la version KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.!!!!!!!!!!!!
+
 [![Trailer Patch Voix Françaises Kingdom Hearts PC](https://img.youtube.com/vi/3_BoDyVT35Q/0.jpg)](https://www.youtube.com/watch?v=3_BoDyVT35Q "Trailer Patch Voix Françaises Kingdom Hearts PC")
 
 ## Français
