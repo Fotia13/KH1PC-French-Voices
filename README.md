@@ -30,7 +30,7 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
  - Les sous-titres sont adaptés aux répliques sauf pour la mention "Maître de la Keyblade" qui est corrigé dans la version PC en "Porteur" ou "élu".
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
- - 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale.
+ - 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices** et mettez le au-dessus du patch principal dans la liste des priorités)
  - La texture "MAGIE" dans le menu de commande est réparée. (Si vous utilisez un [patch HD](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) il faut qu'il soit au dessus dans la liste des priorités)
  - Les vidéos sont upscale et les chansons/musiques sont en qualité 320kbps. (FLAC mais limité)
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
