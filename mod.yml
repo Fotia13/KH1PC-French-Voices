@@ -2179,6 +2179,10 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/xa_ex_1630.mdls/an00ex08.win32.scd
+- name: remastered/dc05.ard/FR_dc05_ard3e8.binl
+  method: copy
+  source:
+  - name: kh1_first/remastered/dc05.ard/FR_dc05_ard3e8.binl
 - name: remastered/al01.ard/FR_al01_ard3ec.binl
   method: copy
   source:
