@@ -1,5 +1,5 @@
 title: French Voices Patch
-originalAuthor: Fotia
+originalAuthor: Fotia13
 description: Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version française de la ps2.  Pour changer les génériques, cliquez sur le lien ci-dessous "Mod source code". Une fois sur Github, cherchez "Latest" en vert, téléchargez le fichier KH1_Generiques-d-intro-et-de-fin_[version].zip, et décompressez-le.
 dependencies: 
 assets:
@@ -2191,6 +2191,10 @@ assets:
   method: copy
   source:
   - name: kh1_second/remastered/aw04.ard/FR_aw04_ard3e8.binl
+- name: remastered/ew02.ard/FR_ew02_ard3e8.binl
+  method: copy
+  source:
+  - name: kh1_third/remastered/ew02.ard/FR_ew02_ard3e8.binl
 - name: remastered/ew33.ard/FR_ew33_ard3e8.binl
   method: copy
   source:
