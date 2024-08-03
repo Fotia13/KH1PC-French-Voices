@@ -4,7 +4,7 @@
 
 ## Français
 ### Installation
-Tutoriel Vidéo OpenKH pour Kingdom Hearts 2 (Juste **cochez KH1-23GB** à 6:53 et arrêtez vous à 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
+Vidéo tutoriel OpenKH pour Kingdom Hearts 2 (Juste **cochez KH1-23GB** à 6:53 et arrêtez vous à 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
 
 Ensuite :
  Dans le Mods Manager d'[OpenKH](https://github.com/OpenKH/OpenKh/releases/latest)
