@@ -3,6 +3,10 @@ originalAuthor: Fotia13
 description: Remplace toutes les voix de Kingdom Hearts Final Mix version PC par la version française de la ps2.  Pour changer les génériques, cliquez sur le lien ci-dessous "Mod source code". Une fois sur Github, cherchez "Latest" en vert, téléchargez le fichier KH1_Generiques-d-intro-et-de-fin_[version].zip, et décompressez-le.
 dependencies: 
 assets:
+- name: remastered/title/title.img/-131.dds
+  method: copy
+  source:
+  - name: kh1_first/remastered/title/title.img/-131.dds
 - name: remastered/btltbl.bin/FR_ItemHelp.bin
   method: copy
   source:
