@@ -31,7 +31,7 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
  - Les sous-titres sont adaptés aux répliques sauf pour la mention "Maître de la Keyblade" qui est corrigé dans la version PC en "Porteur" ou "élu".
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
- - 6 répliques de Peter Pan, 1 de Léon et 2 de Mushu sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" et mettez le au-dessus du patch principal dans la liste des priorités)
+ - 6 répliques de Peter Pan et 1 de Léon sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" et mettez le au-dessus du patch principal dans la liste des priorités)
  - La texture "MAGIE" dans le menu de commande est réparée. (Si vous utilisez un [patch HD](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) il faut qu'il soit au dessus de Fotia13/KH1PC-French-Voices dans la liste des priorités)
  - Les vidéos sont upscale et les chansons/musiques sont en qualité 320kbps. (FLAC mais limité)
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
@@ -75,7 +75,7 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
  - Every files keep the same quality as back then without any clipping.
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
- - 6 voices lines of Peter Pan, 1 of Leon and 2 of Mushu are picked up from Kingdom Hearts 2 for a better quality and a voice continuity. (If you the original voices lines please add the mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" and make sure to put it above the main patch)
+ - 6 voices lines of Peter Pan and 1 of Leon are picked up from Kingdom Hearts 2 for a better quality and a voice continuity. (If you the original voices lines please add the mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" and make sure to put it above the main patch)
  - The texture "MAGIE" in the command menu is fixed in french. (If you use a [HD patch](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) it need to be above the Fotia13/KH1PC-French-Voices in the priority list)
  - The video are upscaled and the music are in quality 320kbps. (FLAC but limited)
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
