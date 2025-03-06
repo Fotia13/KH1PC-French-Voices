@@ -13,7 +13,7 @@ Ensuite :
  - Cliquez sur Installer
  - Je conseil de rajouter "**Fotia13/KH1PC-Sound-Effects-Turned-Down**" qui permet de réduire un bug sonore qui se met juste en faisant pause ou un chargement pendant une cinématique
  - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 7 en son et musique et 10 en voix ou 10 en son si vous avez le patch **KH1PC-Sound-Effects-Turned-Down**
- - Ensuite téléchargez les vidéos MP4 ([**Génériques**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Vid%C3%A9os)) à placer dans les dossiers du jeu Steam (dans Steam, vous pouvez faire un clic droit sur le titre du jeu -> Gérer -> Parcourir les fichiers locaux) ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent).
+ - Ensuite téléchargez les vidéos MP4 ([**Génériques**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) à placer dans les dossiers du jeu Steam (dans Steam, vous pouvez faire un clic droit sur le titre du jeu -> Gérer -> Parcourir les fichiers locaux) ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent).
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
@@ -58,7 +58,7 @@ After that do the following:
  - Clic on Install
  - I advice to add "**Fotia13/KH1PC-Sound-Effects-Turned-Down**" which reduce an audio bug that change the volume either by just pausing (often it's a white noise) or by a loading
  - I suggest to change the volume in the parameters, for myself I put 7 in sound and music and 10 in voices or 10 in sound if you have the KH1PC-Sound-Effects-Turned-Down patch
- - Then download the MP4 videos ([**Opening&Ending**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Vid%C3%A9os)) that you shall put in Steam(in Steam, you can right-click on the game title -> Manage -> Browse local files) or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different).
+ - Then download the MP4 videos ([**Opening&Ending**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) that you shall put in Steam(in Steam, you can right-click on the game title -> Manage -> Browse local files) or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different).
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
