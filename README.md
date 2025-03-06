@@ -86,6 +86,6 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
 
  > If you pause the game the music will be put at 10 until next loading.
 
- > If there is a loading while a sound effect, the sound will be put at 10 until the next loading. The patch Fotia13/KH1PC-Option-Original-PS2-French-Voices reduce that bug.
+ > If there is a loading while a sound effect, the sound will be put at 10 until the next loading. The patch Fotia13/KH1PC-Sound-Effects-Turned-Down reduce that bug.
 
 If you want the same patch but for **Kingdom Hearts 2** it's on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page.
