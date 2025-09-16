@@ -11,9 +11,8 @@ Ensuite :
  - Cliquez sur Installer un nouveau mod (ou bouton + en vert)
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "**Fotia13/KH1PC-French-Voices**"
  - Cliquez sur Installer
- - Je conseil de rajouter "**Fotia13/KH1PC-Sound-Effects-Turned-Down**" qui permet de réduire un bug sonore qui se met juste en faisant pause ou un chargement pendant une cinématique
- - Je conseil de changer les volumes dans les paramètres du jeu, moi je met 7 en son et musique et 10 en voix ou 10 en son si vous avez le patch **KH1PC-Sound-Effects-Turned-Down**
  - Ensuite téléchargez les vidéos MP4 ([**Génériques**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) à placer dans les dossiers du jeu Steam (dans Steam, vous pouvez faire un clic droit sur le titre du jeu -> Gérer -> Parcourir les fichiers locaux) ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent).
+ - Pour les volumes je conseil de mettre Voix, Sons et Musiques à 10 dans le jeu et de gérer le volume avec le mélangeur de volume de Windows (le jeu peut mettre certains volumes à 10 juste en faisant pause)
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
@@ -31,7 +30,7 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
  - Les sous-titres sont adaptés aux répliques sauf pour la mention "Maître de la Keyblade" qui est corrigé dans la version PC en "Porteur" ou "élu".
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
- - 6 répliques de Peter Pan et 1 de Léon sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" et mettez le au-dessus du patch principal dans la liste des priorités)
+ - 5 répliques de Peter Pan sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" et mettez le au-dessus du patch principal dans la liste des priorités)
  - La texture "MAGIE" dans le menu de commande est réparée. (Si vous utilisez un [patch HD](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) il faut qu'il soit au dessus de Fotia13/KH1PC-French-Voices dans la liste des priorités)
  - Les vidéos sont upscale et les chansons/musiques sont en qualité 320kbps. (FLAC mais limité)
  - Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)
@@ -42,7 +41,7 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
 
  > Si vous faîtes pause la musique se mettra à 10 jusqu'au prochain chargement.
 
- > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement. Il y a le patch Fotia13/KH1PC-Sound-Effects-Turned-Down pour réduire ce bug.
+ > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement. Donc mettez tout à 10 de base pour éviter ce problème.
 
 Si vous voulez le patch pour **Kingdom Hearts 2** c'est sur la page [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) de Tieulink.
 
@@ -56,9 +55,8 @@ After that do the following:
  - Clic on Install a new mod (or the green + button)
  - In the "Add a new mod from GitHub" box enter "**Fotia13/KH1PC-French-Voices**"
  - Clic on Install
- - I advice to add "**Fotia13/KH1PC-Sound-Effects-Turned-Down**" which reduce an audio bug that change the volume either by just pausing (often it's a white noise) or by a loading
- - I suggest to change the volume in the parameters, for myself I put 7 in sound and music and 10 in voices or 10 in sound if you have the KH1PC-Sound-Effects-Turned-Down patch
  - Then download the MP4 videos ([**Opening&Ending**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) that you shall put in Steam(in Steam, you can right-click on the game title -> Manage -> Browse local files) or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different).
+ - For the volumes my advice is to put Voices, Sounds et Music at 10 in the game and then manage the volume with Windows volume mixer (the game can modify some volumes to 10 by just pressing pause)
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
@@ -75,7 +73,7 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
  - Every files keep the same quality as back then without any clipping.
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
- - 6 voices lines of Peter Pan and 1 of Leon are picked up from Kingdom Hearts 2 for a better quality and a voice continuity. (If you the original voices lines please add the mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" and make sure to put it above the main patch)
+ - 5 voices lines of Peter Pan are picked up from Kingdom Hearts 2 for a better quality and a voice continuity. (If you the original voices lines please add the mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" and make sure to put it above the main patch)
  - The texture "MAGIE" in the command menu is fixed in french. (If you use a [HD patch](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) it need to be above the Fotia13/KH1PC-French-Voices in the priority list)
  - The video are upscaled and the music are in quality 320kbps. (FLAC but limited)
  - This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)
@@ -86,6 +84,6 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
 
  > If you pause the game the music will be put at 10 until next loading.
 
- > If there is a loading while a sound effect, the sound will be put at 10 until the next loading. The patch Fotia13/KH1PC-Sound-Effects-Turned-Down reduce that bug.
+ > If there is a loading while a sound effect, the sound will be put at 10 until the next loading. So put everything at 10 from the beginning to avoid this situation.
 
 If you want the same patch but for **Kingdom Hearts 2** it's on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page.
