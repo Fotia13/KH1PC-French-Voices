@@ -2215,10 +2215,6 @@ assets:
   method: copy
   source:
   - name: kh1_third/remastered/pc13.ard/FR_pc13_ard3ea.binl
-- name: remastered/pc13.ard/UK_pc13_ard3ea.binl
-  method: copy
-  source:
-  - name: kh1_third/remastered/pc13.ard/UK_pc13_ard3ea.binl
 - name: remastered/pc17.ard/FR_pc17_ard3ea.binl
   method: copy
   source:
@@ -5771,6 +5767,10 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_381.vset/pc2305sr.win32.scd
+- name: remastered/voice/event/pc/pc_381.vset/pc23a4sr.win32.scd
+  method: copy
+  source:
+  - name: kh1_fourth/remastered/voice/event/pc/pc_381.vset/pc23a4sr.win32.scd
 - name: remastered/voice/event/pc/pc_381.vset/pc23a5sr.win32.scd
   method: copy
   source:
