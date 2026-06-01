@@ -4,15 +4,13 @@
 
 ## Français
 ### Installation
-Vidéo tutoriel OpenKH pour Kingdom Hearts 2 (Juste **cochez KH1-23GB** à 6:53 et arrêtez vous à 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
-
-Ensuite :
  Dans le Mods Manager d'[OpenKH](https://github.com/OpenKH/OpenKh/releases/latest)
  - Cliquez sur Installer un nouveau mod (ou bouton + en vert)
  - Dans la case "Ajouter un nouveau mod de GitHub" rentrez "**Fotia13/KH1PC-French-Voices**"
  - Cliquez sur Installer
- - Ensuite téléchargez les vidéos MP4 ([**Génériques**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) à placer dans les dossiers du jeu Steam (dans Steam, vous pouvez faire un clic droit sur le titre du jeu -> Gérer -> Parcourir les fichiers locaux) ou Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (le nom du dossier peut être différent).
- - Pour les volumes je conseil de mettre Voix, Sons et Musiques à 10 dans le jeu et de gérer le volume avec le mélangeur de volume de Windows (le jeu peut mettre certains volumes à 10 juste en faisant pause)
+ - Ensuite téléchargez les vidéos MP4 ([**Génériques**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) à placer dans les dossiers du jeu
+  - Pour Steam, vous pouvez faire un clic droit sur le titre du jeu -> Gérer -> Parcourir les fichiers locaux)
+  - Pour Epic mettez dans le dossier `C:\Program Files\Epic Games\KH_1.5_2.5` s'il existe.
  
  Si vous n'utilisez pas le Mods Manager d'OpenKH mais plutôt le KHPCPatchManager.exe d'[AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), allez sur ma page [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) pour télécharger le patch.
 
@@ -37,26 +35,19 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  - Mon patch est parfait je n'accepte aucune critique à part si il y a un bug ou un truc qui manque. (ça fait 4 ans que je travail sur ce patch, je l'avais commencé pour la version Final Mix PS2 puis avec une équipe sur la version Epic Games et enfin seul pour le perfectionner jusqu'au 3 Août 2024)
  
- > Vous voyez la première scène du Pays Imaginaire où Riku et Maléfique parlent ? Eh bien cette scène est localisé dans les fichiers de Monstro en plus d'être en double dans le dossier Pays Imaginaire qui sert à rien.
 
- > Si vous faîtes pause la musique se mettra à 10 jusqu'au prochain chargement.
-
- > Si il y a un chargement pendant un effet sonore, le son se mettra à 10 jusqu'au prochain chargement. Donc mettez tout à 10 de base pour éviter ce problème.
-
-Si vous voulez le patch pour **Kingdom Hearts 2** c'est sur la page [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) de Tieulink.
+Si vous voulez le patch pour **Kingdom Hearts 2** c'est sur la page [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) de Tieulink ou avec Re:Fined "**KH-ReFined/KH2-FrenchVO**".
 
  
 ## English
 ### Installation
-How To Mod Kingdom Hearts II For PC (don't forget to **tick KH1-23GB** at 6:53 and you can stop at 7:14) : [![How To Mod Kingdom Hearts II For PC](https://img.youtube.com/vi/Yz3K5zyog_U/0.jpg)](https://www.youtube.com/watch?v=Yz3K5zyog_U "How To Mod Kingdom Hearts II For PC")
-
-After that do the following:
  In [OpenKH](https://github.com/OpenKH/OpenKh/releases/latest) Mods Manager
  - Clic on Install a new mod (or the green + button)
  - In the "Add a new mod from GitHub" box enter "**Fotia13/KH1PC-French-Voices**"
  - Clic on Install
- - Then download the MP4 videos ([**Opening&Ending**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) that you shall put in Steam(in Steam, you can right-click on the game title -> Manage -> Browse local files) or Epic : `C:\Program Files\Epic Games\KH_1.5_2.5` (the folder name can be different).
- - For the volumes my advice is to put Voices, Sounds et Music at 10 in the game and then manage the volume with Windows volume mixer (the game can modify some volumes to 10 by just pressing pause)
+ - Then download the MP4 videos ([**Opening&Ending**](https://github.com/Fotia13/KH1PC-French-Voices/releases/tag/Videos)) that you shall put in the game's folder
+  - For Steam, you can right-click on the game title -> Manage -> Browse local files)
+  - For Epic put it in the folder `C:\Program Files\Epic Games\KH_1.5_2.5` if it exists.
 
  If you don't use the OpenKH Mods Manager but only the KHPCPatchManager.exe by [AntonioDePau](https://github.com/AntonioDePau/KHPCPatchManager/releases/latest), go to my [NexusMods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/123) page to download the patch.
 
@@ -80,10 +71,5 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
  - This patch is compatible with any other patch that don't change the voices.
  - My patch is perfect I don't take any criticism apart if theres a bug or a missing content. (It's been 4 years that I worked on this patch, I started by the Final Mix version on PS2 and then I was with a team for the Epic Games Launch and I finished alone to make it perfect until the 3rd August of 2024)
  
- > Do you see the 1st cutscene in Neverland with Riku and Maleficient? In fact it's located in Monstro's files and also in Neverland's file but theses are unused.
 
- > If you pause the game the music will be put at 10 until next loading.
-
- > If there is a loading while a sound effect, the sound will be put at 10 until the next loading. So put everything at 10 from the beginning to avoid this situation.
-
-If you want the same patch but for **Kingdom Hearts 2** it's on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page.
+If you want the same patch but for **Kingdom Hearts 2** it's on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page or with Re:Fined "**KH-ReFined/KH2-FrenchVO**".
