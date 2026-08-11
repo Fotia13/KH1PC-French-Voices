@@ -315,70 +315,6 @@ assets:
   method: copy
   source:
   - name: kh1_fifth/remastered/xa_ex_4040.mdls/ge00ex07.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01at00.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01at00.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ex03.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ex03.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma01.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma01.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma02.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma02.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma03-2.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma03-2.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma04.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma04.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma05.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma05.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma06.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma06.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma09.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma09.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma10.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma10.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma11.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma11.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma12.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma12.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01ma13.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01ma13.win32.scd
-- name: remastered/xa_ex_4042.mdls/ge01mx14.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4042.mdls/ge01mx14.win32.scd
-- name: remastered/xa_ex_4060.mdls/mu00ex00.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4060.mdls/mu00ex00.win32.scd
-- name: remastered/xa_ex_4060.mdls/mu00ex01.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_ex_4060.mdls/mu00ex01.win32.scd
 - name: remastered/xa_he_1010.mdls/ha00at00.win32.scd
   method: copy
   source:
@@ -987,50 +923,6 @@ assets:
   method: copy
   source:
   - name: kh1_fifth/remastered/xa_tz_3020.mdls/cl00ex13.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00at00.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00at00.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00at01.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00at01.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00at07.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00at07.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00at10.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00at10.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00at12.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00at12.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex01.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex01.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex04.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex04.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex05.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex05.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex06.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex06.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex10.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex10.win32.scd
-- name: remastered/xa_tz_3040.mdls/cl00ex13.win32.scd
-  method: copy
-  source:
-  - name: kh1_fifth/remastered/xa_tz_3040.mdls/cl00ex13.win32.scd
 - name: remastered/xs_genie.dat/ge01at00.win32.scd
   method: copy
   source:
@@ -3167,10 +3059,6 @@ assets:
   method: copy
   source:
   - name: kh1_first/remastered/voice/event/di/di_021.vset/di1601sr.win32.scd
-- name: remastered/voice/event/di/di_021.vset/di1603sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_first/remastered/voice/event/di/di_021.vset/di1603sr.win32.scd
 - name: remastered/voice/event/di/di_021.vset/di1604kr.win32.scd
   method: copy
   source:
@@ -3259,10 +3147,6 @@ assets:
   method: copy
   source:
   - name: kh1_first/remastered/voice/event/tw/tw_002.vset/tw0114sr.win32.scd
-- name: remastered/voice/event/tw/tw_002.vset/tw0115sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_first/remastered/voice/event/tw/tw_002.vset/tw0115sr.win32.scd
 - name: remastered/voice/event/tw/tw_002.vset/tw0116sr.win32.scd
   method: copy
   source:
@@ -3495,10 +3379,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/ew/ew_012.vset/ew0221sr.win32.scd
-- name: remastered/voice/event/ew/ew_012.vset/ew0222an.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/ew/ew_012.vset/ew0222an.win32.scd
 - name: remastered/voice/event/ew/ew_012.vset/ew0223an.win32.scd
   method: copy
   source:
@@ -3999,10 +3879,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/he/he_050.vset/he2417sr.win32.scd
-- name: remastered/voice/event/he/he_051.vset/he2418sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/he/he_051.vset/he2418sr.win32.scd
 - name: remastered/voice/event/lm/lm_001.vset/lm0101ar.win32.scd
   method: copy
   source:
@@ -4071,10 +3947,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/lm/lm_004.vset/lm0401tr.win32.scd
-- name: remastered/voice/event/lm/lm_004.vset/lm0402sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/lm/lm_004.vset/lm0402sr.win32.scd
 - name: remastered/voice/event/lm/lm_004.vset/lm0403tr.win32.scd
   method: copy
   source:
@@ -4499,82 +4371,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/lm/lm_022.vset/lm1318sb.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0501jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0501jc.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0502fi.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0502fi.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0503jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0503jc.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0504jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0504jc.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0505fi.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0505fi.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0506jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0506jc.win32.scd
-- name: remastered/voice/event/nm/nm_001.vset/nm0507fi.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_001.vset/nm0507fi.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0601jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0601jc.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0602sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0602sr.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0603jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0603jc.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0604sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0604sr.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0605jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0605jc.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0606jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0606jc.win32.scd
-- name: remastered/voice/event/nm/nm_002.vset/nm0607jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_002.vset/nm0607jc.win32.scd
-- name: remastered/voice/event/nm/nm_003.vset/nm0701my.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_003.vset/nm0701my.win32.scd
-- name: remastered/voice/event/nm/nm_003.vset/nm0702my.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_003.vset/nm0702my.win32.scd
-- name: remastered/voice/event/nm/nm_003.vset/nm0703jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_003.vset/nm0703jc.win32.scd
-- name: remastered/voice/event/nm/nm_004.vset/nm1101bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_004.vset/nm1101bo.win32.scd
-- name: remastered/voice/event/nm/nm_004.vset/nm1102bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_004.vset/nm1102bo.win32.scd
 - name: remastered/voice/event/nm/nm_005.vset/nm0501jc.win32.scd
   method: copy
   source:
@@ -4603,10 +4399,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/nm/nm_005.vset/nm0507fi.win32.scd
-- name: remastered/voice/event/nm/nm_006.vset/nm1801jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_006.vset/nm1801jc.win32.scd
 - name: remastered/voice/event/nm/nm_007.vset/nm0701my.win32.scd
   method: copy
   source:
@@ -4619,54 +4411,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/nm/nm_007.vset/nm0703jc.win32.scd
-- name: remastered/voice/event/nm/nm_008.vset/nm2202bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_008.vset/nm2202bo.win32.scd
-- name: remastered/voice/event/nm/nm_008.vset/nm2203bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_008.vset/nm2203bo.win32.scd
-- name: remastered/voice/event/nm/nm_008.vset/nm2204bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_008.vset/nm2204bo.win32.scd
-- name: remastered/voice/event/nm/nm_008.vset/nm22a1bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_008.vset/nm22a1bo.win32.scd
-- name: remastered/voice/event/nm/nm_009.vset/nm2301bo.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_009.vset/nm2301bo.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0608jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0608jc.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0609jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0609jc.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0610fi.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0610fi.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0611jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0611jc.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0612jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0612jc.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0613jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0613jc.win32.scd
-- name: remastered/voice/event/nm/nm_010.vset/nm0614jc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/nm/nm_010.vset/nm0614jc.win32.scd
 - name: remastered/voice/event/nm/nm_011.vset/nm1101bo.win32.scd
   method: copy
   source:
@@ -5039,14 +4783,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_073.vset/pc0416sr.win32.scd
-- name: remastered/voice/event/pc/pc_073.vset/pc0417do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_073.vset/pc0417do.win32.scd
-- name: remastered/voice/event/pc/pc_073.vset/pc0418go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_073.vset/pc0418go.win32.scd
 - name: remastered/voice/event/pc/pc_073.vset/pc0419rk.win32.scd
   method: copy
   source:
@@ -5163,10 +4899,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_102.vset/pc0608sr.win32.scd
-- name: remastered/voice/event/pc/pc_102.vset/pc0609rk.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_102.vset/pc0609rk.win32.scd
 - name: remastered/voice/event/pc/pc_103.vset/pc0610go.win32.scd
   method: copy
   source:
@@ -5543,14 +5275,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_202.vset/pc1417do.win32.scd
-- name: remastered/voice/event/pc/pc_202.vset/pc14a1go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_202.vset/pc14a1go.win32.scd
-- name: remastered/voice/event/pc/pc_202.vset/pc14a2go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_202.vset/pc14a2go.win32.scd
 - name: remastered/voice/event/pc/pc_203.vset/pc1418sr.win32.scd
   method: copy
   source:
@@ -5663,14 +5387,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_241.vset/pc1808go.win32.scd
-- name: remastered/voice/event/pc/pc_241.vset/pc18a1do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_241.vset/pc18a1do.win32.scd
-- name: remastered/voice/event/pc/pc_241.vset/pc18a2go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_241.vset/pc18a2go.win32.scd
 - name: remastered/voice/event/pc/pc_242.vset/pc1810be.win32.scd
   method: copy
   source:
@@ -5691,14 +5407,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pc/pc_311.vset/pc2101be.win32.scd
-- name: remastered/voice/event/pc/pc_321.vset/pc2201go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_321.vset/pc2201go.win32.scd
-- name: remastered/voice/event/pc/pc_321.vset/pc2202le.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pc/pc_321.vset/pc2202le.win32.scd
 - name: remastered/voice/event/pc/pc_331.vset/pc2201go.win32.scd
   method: copy
   source:
@@ -6115,10 +5823,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pi/pi_017.vset/pi1715rk.win32.scd
-- name: remastered/voice/event/pi/pi_017.vset/pi17a1ji.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pi/pi_017.vset/pi17a1ji.win32.scd
 - name: remastered/voice/event/pi/pi_017.vset/pi1801do.win32.scd
   method: copy
   source:
@@ -6139,10 +5843,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pi/pi_018.vset/pi1718sr.win32.scd
-- name: remastered/voice/event/pi/pi_019.vset/pi17a1ji.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pi/pi_019.vset/pi17a1ji.win32.scd
 - name: remastered/voice/event/pi/pi_019.vset/pi1711ji.win32.scd
   method: copy
   source:
@@ -6515,78 +6215,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/po/po_015.vset/po1102ti.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1101po.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1101po.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1102ti.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1102ti.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1103ti.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1103ti.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1104ti.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1104ti.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1105ti.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1105ti.win32.scd
-- name: remastered/voice/event/po/po_016.vset/po1106ti.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/po/po_016.vset/po1106ti.win32.scd
-- name: remastered/voice/event/pp/pp_000.vset/pp0008ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_000.vset/pp0008ma.win32.scd
-- name: remastered/voice/event/pp/pp_000.vset/pp0009ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_000.vset/pp0009ma.win32.scd
-- name: remastered/voice/event/pp/pp_000.vset/pp0010ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_000.vset/pp0010ma.win32.scd
-- name: remastered/voice/event/pp/pp_000.vset/pp0011ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_000.vset/pp0011ma.win32.scd
-- name: remastered/voice/event/pp/pp_000.vset/pp0012rk.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_000.vset/pp0012rk.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0001rk.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0001rk.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0002ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0002ma.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0003rk.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0003rk.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0004ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0004ma.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0005rk.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0005rk.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0006ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0006ma.win32.scd
-- name: remastered/voice/event/pp/pp_001.vset/pp0007ma.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_001.vset/pp0007ma.win32.scd
 - name: remastered/voice/event/pp/pp_099.vset/pp2001we.win32.scd
   method: copy
   source:
@@ -7051,18 +6679,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/pp/pp_120.vset/pp1414pp.win32.scd
-- name: remastered/voice/event/pp/pp_120.vset/pp14a1sr.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_120.vset/pp14a1sr.win32.scd
-- name: remastered/voice/event/pp/pp_120.vset/pp14a2do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_120.vset/pp14a2do.win32.scd
-- name: remastered/voice/event/pp/pp_120.vset/pp14a3go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/pp/pp_120.vset/pp14a3go.win32.scd
 - name: remastered/voice/event/pp/pp_121.vset/pp1601ho.win32.scd
   method: copy
   source:
@@ -7583,18 +7199,10 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/tw/tw_020.vset/tw1323go.win32.scd
-- name: remastered/voice/event/tw/tw_020.vset/tw13a3do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/tw/tw_020.vset/tw13a3do.win32.scd
 - name: remastered/voice/event/tw/tw_020.vset/tw13a4do.win32.scd
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/tw/tw_020.vset/tw13a4do.win32.scd
-- name: remastered/voice/event/tw/tw_020.vset/tw13b3do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/tw/tw_020.vset/tw13b3do.win32.scd
 - name: remastered/voice/event/tw/tw_030.vset/t20101kr.win32.scd
   method: copy
   source:
@@ -8615,46 +8223,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/tz/tz_091.vset/tz2410ma.win32.scd
-- name: remastered/voice/event/al/al_001.vset/al0101do.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_001.vset/al0101do.win32.scd
-- name: remastered/voice/event/al/al_001.vset/al0103go.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_001.vset/al0103go.win32.scd
-- name: remastered/voice/event/al/al_001.vset/al0104go.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_001.vset/al0104go.win32.scd
-- name: remastered/voice/event/al/al_001.vset/al0105do.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_001.vset/al0105do.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0202ja.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0202ja.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0203ja.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0203ja.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0204ia.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0204ia.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0205ja.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0205ja.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0207ja.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0207ja.win32.scd
-- name: remastered/voice/event/al/al_002.vset/al0208ja.win32.scd
-  method: copy
-  source:
-  - name: kh1_third/remastered/voice/event/al/al_002.vset/al0208ja.win32.scd
 - name: remastered/voice/event/al/al_010.vset/al0201ma.win32.scd
   method: copy
   source:
