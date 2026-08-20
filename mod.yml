@@ -3427,14 +3427,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/ew/ew_015.vset/ew02a4sr.win32.scd
-- name: remastered/voice/event/ew/ew_015.vset/ew02a5do.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/ew/ew_015.vset/ew02a5do.win32.scd
-- name: remastered/voice/event/ew/ew_015.vset/ew02a6go.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/ew/ew_015.vset/ew02a6go.win32.scd
 - name: remastered/voice/event/ew/ew_015.vset/ew02a7do.win32.scd
   method: copy
   source:
@@ -3643,10 +3635,6 @@ assets:
   method: copy
   source:
   - name: kh1_fourth/remastered/voice/event/he/he_022.vset/he2201ph.win32.scd
-- name: remastered/voice/event/he/he_022.vset/he2202hc.win32.scd
-  method: copy
-  source:
-  - name: kh1_fourth/remastered/voice/event/he/he_022.vset/he2202hc.win32.scd
 - name: remastered/voice/event/he/he_022.vset/he2203do.win32.scd
   method: copy
   source:
