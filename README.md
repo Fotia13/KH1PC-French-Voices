@@ -27,11 +27,12 @@ Si vous avez les sous-titres en anglais c'est que soit votre Steam/Epic Games es
  - Tout les fichiers gardent la même qualité qu'à l'époque sans aucune saturation.
  - Les sous-titres sont adaptés aux répliques sauf pour la mention "Maître de la Keyblade" qui est corrigé dans la version PC en "Porteur" ou "élu".
  - Les répliques des deux cinématiques de l'Inconnu sont refaites avec une meilleure qualité et des répliques plus correspondante à l'action ainsi que les sous-titres retravaillés.
+ - Un sous-titre est changé au dans un flashback muet pour correspondre à l'intention japonais (une réplique qui est reprise plusieurs fois mais la VF avait perdu la constance)
  - Les répliques manquantes d'Oogie Boogie et Génie sont récupérés de Kingdom Hearts 2. (ce problème était présent dans la version ps2)
  - 5 répliques de Peter Pan sont récupérés de Kingdom Hearts 2 pour une meilleure qualité et une continuité vocale. (Si vous voulez les répliques originaux ajoutez le mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" et mettez le au-dessus du patch principal dans la liste des priorités)
  - La texture "MAGIE" dans le menu de commande est réparée. (Si vous utilisez un [patch HD](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) il faut qu'il soit au dessus de Fotia13/KH1PC-French-Voices dans la liste des priorités)
  - Les chansons/musiques sont en qualité 320kbps. (FLAC mais limité)
- - ~~Ce patch inclus une optimisation des fichiers voix. (les fichiers inutilisés que Square Enix a laissé sont supprimés)~~ Pas utile avec le fonctionnement du mod manager d'OpenKH
+ - Ce patch est compatible avec le Patching d'OpenKH donc compatible Switch.
  - Ce patch est compatible avec n'importe quel autre patch qui ne touche pas directement aux voix.
  
 
@@ -59,14 +60,11 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
 
 ### Description
  - Compatible with the **Steam** version and the **Epic Games** version.
- - Replace eery voices in Kingdom Hearts Final Mix PC version by the **ps2 french version**.
- - Every files keep the same quality as back then without any clipping.
+ - Replace every voices in Kingdom Hearts Final Mix PC version by the **ps2 french version**.
  - The voice lines of the two cutscene with the Unknown are remade with a better quality and the voices lines fit more in the scene also the subtitles are changed.
  - The missing voice lines of Oogie Boogie and Genie are picked up from Kingdom Hearts 2. (this problem already existed on the ps2 version)
  - 5 voices lines of Peter Pan are picked up from Kingdom Hearts 2 for a better quality and a voice continuity. (If you the original voices lines please add the mod "**Fotia13/KH1PC-Option-Original-PS2-French-Voices**" and make sure to put it above the main patch)
  - The texture "MAGIE" in the command menu is fixed in french. (If you use a [HD patch](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4) it need to be above the Fotia13/KH1PC-French-Voices in the priority list)
- - The video musics are in quality 320kbps. (FLAC but limited)
- - ~~This patch include an optimisation of the voices files. (the unused files let by Square Enix are deleted)~~ Useless since OpenKH's mod manager doesn't patch
  - This patch is compatible with any other patch that don't change the voices.
  
 
