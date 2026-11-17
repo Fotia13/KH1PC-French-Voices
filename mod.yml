@@ -3111,6 +3111,12 @@ assets:
   package: kh1_first
   source:
   - name: kh1_first/remastered/dc05.ard/FR_dc05_ard3e8.binl
+- name: remastered/di01.ard/FR_di01_ard3e8.binl
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: kh1_first/remastered/di01.ard/FR_di01_ard3e8.binl
 - name: remastered/di01.ard/FR_di01_ard3ec.binl
   method: copy
   platform: pc
