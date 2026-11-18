@@ -71,7 +71,7 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
 
 If you want the same patch but for **Kingdom Hearts 2** it's with Re:Fined "**KH-ReFined/KH2-FrenchVO**" or on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page.
 
-### Credits
+### Crédits
 | | |
 | ---: | :--- |
 | Donald Reignoux | Sora |
