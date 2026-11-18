@@ -70,3 +70,74 @@ If you want the subtitles to be in french I suggest to change Steam/Epic Games l
  
 
 If you want the same patch but for **Kingdom Hearts 2** it's with Re:Fined "**KH-ReFined/KH2-FrenchVO**" or on Tieulink's [NexusMods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/34) page.
+
+### Credits
+| | |
+| ---: | :--- |
+| Donald Reignoux | Sora |
+| Mathias Kozlowski | Riku |
+| Kelly Marot | Kairi |
+| Laurent Pasquier | Le Roi |
+| Sylvain Caruso | Donald |
+| | Le Bouton de Porte |
+| Gérard Rinaldi | Dingo |
+| | Clayton |
+| Marie-Charlotte Leclaire | Minnie |
+| | Selphie |
+| Sybille Tureau | Daisy |
+| Denis Laustriat | Squall "Léon" Leonhart |
+| Caroline Combes | Youfie |
+| Marie-Eugénie Marechal | Aerith |
+| Tanguy Goasdoué | Cloud |
+| Bruno Choël | Séphiroth |
+| Brice Ournac | Tidus |
+| Emmanuel Garijo | Wakka |
+| | Hercule |
+| Emmanuel Jacomy | La Bête |
+| | Tarzan |
+| Sylvie Genty | Maléfique |
+| Brunot Dubernat | Ansem |
+| Michel Mella | Mushu |
+| Karine Foviau | Alice |
+| Paule Emmanuele | La Reine de Cœur |
+| Guy Piérauld | Le Lapin Blanc |
+| Gérard Surugue | Philoctète |
+| Guy Chapellier | Hadès |
+| Juliette Degenne | Jane |
+| Isabelle Ganz | Tok |
+| Guillaume Lebon | Aladdin |
+| Richard Darbois | Le Génie |
+| | Oogie Boogie |
+| Magali Barney | Jasmine |
+| Michel Elias | Jafar |
+| Éric Métayer | Iago |
+| Kelyan Blanc | Pinocchio |
+| Roger Carel | Gepetto |
+| | Jiminy Criquet |
+| | Winnie l'Ourson |
+| | Coco Lapin |
+| Patrick Préjean | Tigrou |
+| Laura Préjean | Ariel |
+| Robert Party | Roi Triton |
+| Perrette Pradier | Ursula |
+| Éric Aubrahn | Sébastien |
+| Maxime Nivet | Polochon |
+| Vincent Grass | Jetsam |
+| | Flotsam |
+| Olivier Constantin | Jack Skellington |
+| Dorothée Jemma | Sally |
+| Bernard Tiphaine | Dr. Finklestein |
+| Michel Costa | Am |
+| Céline Monsarrat | Stram |
+| | Mère de Sora |
+| Bertand Liebert | Gram |
+| Daniel Beretta | Le Maire |
+| Hervé Rey | Peter Pan |
+| | Porcinet |
+| Noémie Orphelin | Wendy |
+| Philippe Catoire | Capitaine Crochet |
+| Patrice Dozier | M. Mouche |
+| Valérie Siclay | Direction Artistique |
+| Laurent Sautière | Localisation Française |
+| Jacques Martine | |
+| Audiophase | Studio de Doublage |
